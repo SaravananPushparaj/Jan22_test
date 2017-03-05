@@ -5,6 +5,7 @@ public class First_program {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hi Jan22 Batch");
+		System.out.println("Hello everyone");
 
 	}
 
